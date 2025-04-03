@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your actual API key
-API_KEY = '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'
+API_KEY = 'your key'
 
 # Groq API URL - using the correct endpoint for chat completions
 GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions'

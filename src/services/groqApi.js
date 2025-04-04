@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { getKnowledgeBaseAnswer } from './knowledgeBase';
 
-const GROQ_API_KEY = import.meta.env.VITE_GROQ_API_KEY;
+const GROQ_API_KEY = gsk_jEzTTjpZ6aTvZ9FrSOzLQZcgRMDC36HvQrHuLOJfj1g4jdRA ;
 const GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions';
 
 console.log('Groq API Key present:', GROQ_API_KEY ? '✓' : '✗');

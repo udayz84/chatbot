@@ -1,7 +1,7 @@
 import requests
 
 # Define the News API URL and API key
-NEWS_API_KEY = 'your key'
+NEWS_API_KEY = '0bbe7b7adfed4ba282d26545688c313e'
 NEWS_API_URL = 'https://newsapi.org/v2/everything'
 
 # Groq API URL - using the correct endpoint for chat completions

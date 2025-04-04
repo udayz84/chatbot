@@ -8,7 +8,7 @@ import re
 ASTROLOGY_API_KEY = 'zaVlYhqoy265wQW8q04mC4IDAa0gjgCo2sq1X2SD'
 ASTROLOGY_API_URL = 'https://json.astrologyapi.com/v1/kundli'
 
-GROQ_API_KEY = 'your key'
+GROQ_API_KEY = 'gsk_jEzTTjpZ6aTvZ9FrSOzLQZcgRMDC36HvQrHuLOJfj1g4jdRA'
 GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions'
 
 
